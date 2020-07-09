@@ -4816,6 +4816,10 @@ public final class Settings {
          */
 
         /**
+         * Screen off fod
+         * @hide
+         */
+        public static final String FOD_GESTURE = "fod_gesture";
 
         /**
          * Three Finger Gesture from Oppo
