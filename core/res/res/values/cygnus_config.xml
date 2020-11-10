@@ -30,4 +30,7 @@
     <string-array name="config_deviceKeyHandlerClasses" translatable="false">
     </string-array>
 
+    <!-- Hide FOD while Going to sleep from lockscreen to avoid HBM flicker -->
+    <bool name="config_inDisplayFingerprintFlickersGoingToSleep">false</bool>
+
 </resources>
